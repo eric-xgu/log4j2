@@ -1,0 +1,12 @@
+[INFO] 2021-09-14 15:29:24.186 [main]  com.ringo.springboot_log.SpringbootLogApplicationTests  -Starting SpringbootLogApplicationTests using Java 1.8.0_251 on USER-20190812XN with PID 8912 (started by Administrator in D:\project\log4j2\springboot_log)
+[DEBUG] 2021-09-14 15:29:24.201 [main]  com.ringo.springboot_log.SpringbootLogApplicationTests  -Running with Spring Boot v2.5.4, Spring v5.3.9
+[INFO] 2021-09-14 15:29:24.217 [main]  com.ringo.springboot_log.SpringbootLogApplicationTests  -No active profile set, falling back to default profiles: default
+[INFO] 2021-09-14 15:30:40.379 [main]  com.ringo.springboot_log.SpringbootLogApplicationTests  -Starting SpringbootLogApplicationTests using Java 1.8.0_251 on USER-20190812XN with PID 12036 (started by Administrator in D:\project\log4j2\springboot_log)
+[DEBUG] 2021-09-14 15:30:40.379 [main]  com.ringo.springboot_log.SpringbootLogApplicationTests  -Running with Spring Boot v2.5.4, Spring v5.3.9
+[INFO] 2021-09-14 15:30:40.395 [main]  com.ringo.springboot_log.SpringbootLogApplicationTests  -No active profile set, falling back to default profiles: default
+[INFO] 2021-09-14 15:30:51.728 [main]  com.ringo.springboot_log.SpringbootLogApplicationTests  -Started SpringbootLogApplicationTests in 13.223 seconds (JVM running for 17.988)
+[ERROR] 2021-09-14 15:30:52.687 [main]  com.ringo.springboot_log.SpringbootLogApplicationTests  -0
+[INFO] 2021-09-14 15:30:52.687 [main]  com.ringo.springboot_log.SpringbootLogApplicationTests  -0
+[WARN] 2021-09-14 15:30:52.687 [main]  com.ringo.springboot_log.SpringbootLogApplicationTests  -0
+[DEBUG] 2021-09-14 15:30:52.687 [main]  com.ringo.springboot_log.SpringbootLogApplicationTests  -0
+[TRACE] 2021-09-14 15:30:52.687 [main]  com.ringo.springboot_log.SpringbootLogApplicationTests  -0
